@@ -1,0 +1,7 @@
+{
+  "name": "AdVantage Video Extender",
+  "description": "Transform short clips into immersive brand stories using Gemini Veo video generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

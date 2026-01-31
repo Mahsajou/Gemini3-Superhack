@@ -1,0 +1,22 @@
+
+{
+  "name": "gemini3-superhack-advantage",
+  "version": "1.0.0",
+  "description": "AdVantage AI: Immersive advertising video extension using Gemini Veo 3.1",
+  "main": "index.tsx",
+  "dependencies": {
+    "@google/genai": "^1.39.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwindcss": "^3.4.1"
+  },
+  "keywords": [
+    "gemini",
+    "veo",
+    "ai-video",
+    "advertising",
+    "superhack"
+  ],
+  "author": "Mahsajou",
+  "license": "MIT"
+}
