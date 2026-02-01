@@ -1,0 +1,8 @@
+{
+  "name": "V-Extend: Immersive Ad Weaver",
+  "description": "A high-end video extension tool that uses Gemini Veo to transform short clips into immersive, brand-integrated cinematic experiences.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
